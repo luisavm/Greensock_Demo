@@ -1,0 +1,9 @@
+/* @charset "UTF-8"; */
+
+.box
+{
+width: 180px;
+height: 180px;
+background: red;
+position: relative;
+}
